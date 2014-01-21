@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Simple</title>
+  </head>
+
+  <body>
+    <div class="change">
+      <span>This is a terrible element</span>
+    </div>
+  </body>
+</html>

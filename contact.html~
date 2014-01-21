@@ -1,0 +1,24 @@
+<html>
+
+  <head>
+    <title>Harten, Michael</title>
+    <link rel="stylesheet"  type="text/css" href="style.css"
+  </head>
+  
+  <body>
+    <div class="navigation">
+      <nav>
+        <ul>
+          <li><a href="about.html">Home</a></li>
+          <li><a href="">About</a></li>
+          <li><a href="">Projects</a></li>
+          <li><a href="">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    
+    <p>This is a paragraph</p>
+
+  </body>
+  
+</html>
