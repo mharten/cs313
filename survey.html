@@ -7,16 +7,21 @@
   
   <body>
     <div id="content">
-      <form id="form">
+      <form id="form" action="results.php" method="POST">
         <h1>Russian Conversation Practice Survey</h1>
-        <p>Please answer just a few questions for:</p>
+        <p>Please answer just a few questions</p>
         <p>Have you served a mission?</p>
-        <input type="radio" name="mission" value="male">Male<br>
-        <input type="radio" name="mission" value="female">Female
+        <input type="radio" name="mission" value="male">Yes
+        <input type="radio" name="mission" value="female">No
         <p>What made you interested in learning russian?</p>
         <textarea id="interest" rows="13" cols="50">
         </textarea>
-        <p>What is the purpose of the Russian Conversation Center</p>
+        <p>What is the purpose of the Russian Conversation Center?</p>
+        <textarea id="purpose" rows="13" cols="50">
+        </textarea>
+
+        <br/>
+        <input type="submit" value="Submit">
       </form>
     </div>
   </body>
