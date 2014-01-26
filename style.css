@@ -32,7 +32,17 @@ img.main{
 width:380px;
 }
 
-h1, p{
+form{
+margin:16px;
+padding:16px;
+background-color:#ffffff;
+}
+
+h1, h3, h5, p{
 color:#336699;
 margin: 16px;
+}
+
+form h1{
+text-align:center;
 }
