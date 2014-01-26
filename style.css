@@ -32,7 +32,11 @@ img.main{
 width:380px;
 }
 
-h1, p{
+div.content{
+background-color:#ffffff;
+}
+
+h1, h3, h5, p{
 color:#336699;
 margin: 16px;
 }
